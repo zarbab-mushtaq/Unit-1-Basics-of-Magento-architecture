@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+* @author RLTSquare
+* @copyright Copyright (c) 2022 RLTSquare (https://www.rltsquare.com/)
+* @package RLTSquare_TrainingTask
+*/
+ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="unit1"
+              label="Basics Unit 1"
+              file="unit1.html"
+              type="html"
+              module="RLTSquare_TrainingTask"
+              area="frontend"
+    />
+</config>
